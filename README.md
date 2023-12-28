@@ -1,0 +1,1 @@
+Dear Reviewer, we have uploaded the covalent and non-covalent inhibitors of KRAS in PDB format. We thank the reviwer for the valuable suggestions. Our manuscript is now improved because of your valuable suggestions. 
